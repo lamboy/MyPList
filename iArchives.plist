@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.trgis.iArchives</string>
 				<key>bundle-version</key>
-				<string>1.0 beta1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -43,7 +43,7 @@
 				<key>subtitle</key>
 				<string>PrivArchives</string>
 				<key>description</key>
-				<string>1.修改bug。\n2.手机端新的档案添加界面。</string>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
