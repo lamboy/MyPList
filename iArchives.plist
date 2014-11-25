@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.trgis.iArchives</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -43,7 +43,7 @@
 				<key>subtitle</key>
 				<string>PrivArchives</string>
 				<key>description</key>
-				<string></string>
+				<string>1. 增加了系统第一次运行时的引导界面。\n2. 解决添加档案和显示档案时，照片横向拉伸的问题。\n3. 增加了帮助功能。\n4. 其他bug修改。</string>
 			</dict>
 		</dict>
 	</array>
