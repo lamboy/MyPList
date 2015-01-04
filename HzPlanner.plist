@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.trgis.HzPlanner</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>杭州规划New(v1.1)</string>
+				<string>杭州规划New(v1.2)</string>
 				<key>title</key>
 				<string>杭州规划New</string>
 			</dict>
